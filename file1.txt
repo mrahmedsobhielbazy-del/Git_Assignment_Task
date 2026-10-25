@@ -1,1 +1,2 @@
 Hello Git
+Adding second line for snapshots test).
